@@ -1,0 +1,7 @@
+C:\Users\darks\source\repos\Csharp_Project1\CSharp_Case_1\bin\Debug\CSharp_Case_1.exe.config
+C:\Users\darks\source\repos\Csharp_Project1\CSharp_Case_1\bin\Debug\CSharp_Case_1.exe
+C:\Users\darks\source\repos\Csharp_Project1\CSharp_Case_1\bin\Debug\CSharp_Case_1.pdb
+C:\Users\darks\source\repos\Csharp_Project1\CSharp_Case_1\obj\Debug\CSharp_Case_1.csproj.AssemblyReference.cache
+C:\Users\darks\source\repos\Csharp_Project1\CSharp_Case_1\obj\Debug\CSharp_Case_1.csproj.CoreCompileInputs.cache
+C:\Users\darks\source\repos\Csharp_Project1\CSharp_Case_1\obj\Debug\CSharp_Case_1.exe
+C:\Users\darks\source\repos\Csharp_Project1\CSharp_Case_1\obj\Debug\CSharp_Case_1.pdb
